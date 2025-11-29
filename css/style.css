@@ -1,0 +1,15 @@
+/* css/style.css */
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+/* Sembunyikan scrollbar tapi tetap bisa discroll */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
