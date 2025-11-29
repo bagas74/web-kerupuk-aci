@@ -4,7 +4,7 @@ function shopData() {
   return {
     // --- DATA KONTAK ---
     contact: {
-      wa: "6281234567890",
+      wa: "6281328264534",
       ig: "https://instagram.com/krupukaci_enak",
       tiktok: "https://tiktok.com/@krupukaci_viral",
       email: "halo@krupukaci.com",
