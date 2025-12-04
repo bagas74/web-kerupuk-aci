@@ -5,7 +5,7 @@ function shopData() {
     // --- DATA KONTAK ---
     contact: {
       wa: "6281328264534",
-      ig: "https://instagram.com/krupukaci_enak",
+      ig: "https://instagram.com/bagassa_7",
       tiktok: "https://tiktok.com/@krupukaci_viral",
       email: "halo@krupukaci.com",
       address: "Jl. Krupuk Renyah No. 88, Kota Bandung.",
