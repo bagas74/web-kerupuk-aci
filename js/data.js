@@ -24,7 +24,7 @@ function shopData() {
         price: "Rp 15.000",
         weight: "250 Gram",
         composition: "Tepung Tapioka, Bawang Putih, Garam",
-        image: "img/krupuk-ori.jpg",
+        image: "img/original.jpeg",
       },
       {
         name: "Krupuk Pedas Jeletot",
@@ -34,7 +34,7 @@ function shopData() {
         price: "Rp 18.000",
         weight: "200 Gram",
         composition: "Tepung Tapioka, Cabai, Bawang",
-        image: "img/krupuk-pedas.jpg",
+        image: "img/pedas.jpeg",
       },
       {
         name: "Seblak Krupuk Kering",
