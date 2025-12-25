@@ -5,13 +5,14 @@ function shopData() {
     // --- DATA KONTAK ---
     contact: {
       wa: "6281328264534",
-      ig: "https://instagram.com/bagassa_7",
+      ig: "https://www.instagram.com/satgassa?igsh=bjg5NzU2aGIzcjIz",
       tiktok: "https://tiktok.com/@krupukaci_viral",
       email: "halo@krupukaci.com",
-      address: "Jl. Krupuk Renyah No. 88, Kota Bandung.",
+      address:
+        "Jl. Semin - Karangsari, Pundungsari, Pundung Sari, Kec. Semin, Kabupaten Gunungkidul",
       // Link embed peta (disingkat biar rapi)
       map_embed:
-        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7910.057793946626!2d110.796836287773!3d-7.57182838444058!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a16783dbd32eb%3A0xe852ba0aa1842158!2sUniversitas%20Duta%20Bangsa%20(Kampus%201%20Bhayangkara)!5e0!3m2!1sid!2sid!4v1764332059242!5m2!1sid!2sid",
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.275859886487!2d110.73708637031936!3d-7.866174360843461!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a35f02a2f88bb%3A0x4333ecfe4816e049!2sCesa%20Steak!5e0!3m2!1sid!2sid!4v1766640552080!5m2!1sid!2sid",
     },
 
     // --- DATA PRODUK ---
@@ -25,6 +26,7 @@ function shopData() {
         weight: "250 Gram",
         composition: "Tepung Tapioka, Bawang Putih, Garam",
         image: "img/original.jpeg",
+        wa: "6281326691584",
       },
       {
         name: "Krupuk Pedas Jeletot",
@@ -35,6 +37,7 @@ function shopData() {
         weight: "200 Gram",
         composition: "Tepung Tapioka, Cabai, Bawang",
         image: "img/pedas.jpeg",
+        wa: "6281326691584",
       },
       {
         name: "Seblak Krupuk Kering",
@@ -44,6 +47,7 @@ function shopData() {
         weight: "150 Gram",
         composition: "Krupuk Aci, Kencur, Daun Jeruk",
         image: "img/seblak.jpg",
+        wa: "6282258880217",
       },
       {
         name: "Seblak Krupuk b",
@@ -53,6 +57,7 @@ function shopData() {
         weight: "150 Gram",
         composition: "Krupuk Aci, Kencur, Daun Jeruk",
         image: "img/seblak.jpg",
+        wa: "6282258880217",
       },
       {
         name: "Seblak Krupuk a",
